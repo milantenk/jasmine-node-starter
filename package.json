@@ -1,0 +1,14 @@
+{
+  "name": "jasmine-node-starter",
+  "version": "0.1.0",
+  "description": "Template for a simple test environment",
+  "main": "-",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Milan Tenk",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}
